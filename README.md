@@ -1,4 +1,4 @@
-# Hi, I'm Omid
+# Hi, I'm Mohammad Omid
 
 I'm a self-taught developer from Afghanistan with a strong interest in computer science, artificial intelligence, and software engineering. I enjoy building practical AI systems, experimenting with modern AI technologies, and learning how intelligent applications are designed and deployed.
 
