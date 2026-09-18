@@ -4,11 +4,10 @@ I'm a self-taught developer from Afghanistan with a strong interest in computer 
 
 ## What I'm Working On
 
-- Strengthening my computer science fundamentals
-- Building practical software and AI projects
+- Building practical AI and software projects
 - Exploring LLM engineering and generative AI
-- Learning RAG, fine-tuning, AI APIs, and model integration
-- Improving my understanding of how AI systems are built and deployed
+- Learning RAG, fine-tuning, and AI APIs
+- Strengthening my computer science fundamentals
 
 ## Areas of Interest
 
@@ -16,42 +15,26 @@ I'm a self-taught developer from Afghanistan with a strong interest in computer 
 - LLM Engineering
 - Generative AI
 - Software Engineering
-- Computer Science
 
 ## Technologies
 
 - Python
 - LLMs & Generative AI
 - RAG & Fine-tuning
-- AI APIs & Model Integration
+- AI APIs
 - HTML & CSS
 - Git & GitHub
 
-## Current Goals
+## Current Goal
 
-- Build a strong foundation in computer science
-- Become a capable AI engineer
-- Build useful, real-world AI applications
-- Contribute to open-source projects
-- Keep learning and experimenting with modern AI technologies
+Become a capable AI engineer who can turn ideas and real-world problems into useful software.
 
 ## Projects
 
-### Rah — Afghan Scholarship Platform
+**Rah** — Scholarship discovery platform for Afghan students.  
+[Live Website](https://afghan-scholarships.omid16703.workers.dev/)
 
-A scholarship discovery platform designed to help Afghan students find international educational opportunities and make the first steps of the application process easier.
-
-**Live:** https://afghan-scholarships.omid16703.workers.dev/
-
-### FloodGuard
-
-An AI-focused project exploring how weather data can be used to identify potential flood and drought risks and provide useful information to communities.
-
-## A Little More About Me
-
-I'm interested in understanding technology from the foundations up rather than only learning how to use existing tools. I'm gradually working through computer science fundamentals while building projects that allow me to apply what I learn.
-
-My long-term goal is to become an AI engineer capable of turning ideas and real-world problems into useful software.
+**FloodGuard** — Exploring the use of weather data and AI to identify potential flood and drought risks.
 
 ---
 
